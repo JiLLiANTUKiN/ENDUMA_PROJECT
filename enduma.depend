@@ -1,0 +1,87 @@
+# depslib dependency file v1.0
+1361601327 source:c:\users\loriano\desktop\enduma\yehey.cpp
+	"yehey.h"
+	<iostream>
+	<string>
+	<sstream>
+	<cmath>
+	<cstdlib>
+	<stdint.h>
+
+1361600709 c:\users\loriano\desktop\enduma\yehey.h
+	"math.h"
+	<string>
+	<iostream>
+	<cstdlib>
+	<vector>
+	<fstream>
+	<sstream>
+	<string.h>
+	<iomanip>
+	<set>
+
+1361602104 source:c:\users\loriano\desktop\enduma\main.cpp
+	"yehey.h"
+	<iostream>
+	<string>
+	<cstdlib>
+
+1362215472 source:c:\users\loriano\desktop\project\enduma\yehey.cpp
+	"yehey.h"
+	<iostream>
+	<string>
+	<sstream>
+	<cmath>
+	<cstdlib>
+	<stdint.h>
+
+1362215472 c:\users\loriano\desktop\project\enduma\yehey.h
+	"math.h"
+	<string>
+	<iostream>
+	<cstdlib>
+	<vector>
+	<fstream>
+	<sstream>
+	<string.h>
+	<iomanip>
+	<set>
+
+1362215472 source:c:\users\loriano\desktop\project\enduma\main.cpp
+	"yehey.h"
+	<iostream>
+	<string>
+	<cstdlib>
+
+1364024934 source:c:\users\loriano\desktop\hardware\new folder\enduma\yehey.cpp
+	"yehey.h"
+	<iostream>
+	<string>
+	<sstream>
+	<cmath>
+	<cstdlib>
+	<stdint.h>
+	<algorithm>
+	<vector>
+	<stdio.h>
+	<cstring>
+	<fstream>
+
+1364023837 c:\users\loriano\desktop\hardware\new folder\enduma\yehey.h
+	"math.h"
+	<string>
+	<iostream>
+	<cstdlib>
+	<vector>
+	<fstream>
+	<sstream>
+	<string.h>
+	<iomanip>
+	<set>
+
+1364023791 source:c:\users\loriano\desktop\hardware\new folder\enduma\main.cpp
+	"yehey.h"
+	<iostream>
+	<string>
+	<cstdlib>
+
